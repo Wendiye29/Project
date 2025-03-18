@@ -23,7 +23,7 @@ function Login(){
                     
                 }
                 else if(result.data ==="password error"){
-                    alert("your password is incorrect")
+                    alert("Your password is incorrect")
                 }
                 else{
                     alert("There is no record ")
