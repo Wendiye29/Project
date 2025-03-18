@@ -5,9 +5,10 @@ const Footer = () => {
   return (
     <footer className={styles.footer}>
       <p>&copy; 2025 Checking Laptop's Serial Number. All rights reserved.</p>
-      <h4>Designed by Habtamu G. (MSc in Software Engineering)</h4>
+      <h4> ተዘጋጀ: በሃብተሙ ግ. (MSc in Software Engineering)</h4>
     </footer>
   );
+  
 };
 
 export default Footer
