@@ -43,7 +43,7 @@ function Check(){
                 required
                 />
                 </div>
-                <button type='submit' className='btn btn-success w-100 rounded-0'>Check</button>
+                <button type='submit' className='btn btn-success w-100 rounded-0'>አረጋግጥ</button>
         </form>
        
         {userData && (
